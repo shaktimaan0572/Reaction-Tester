@@ -1,0 +1,53 @@
+body
+{
+	margin:0;
+	padding:0;
+	background-color:#e9ebee;
+}
+	
+#topbar
+{
+	width:100%;
+	background-color:#4267b2;
+	height:150px;
+	margin:0 auto;
+	float:left;
+	font-family:'Ubuntu', Helvetica, Arial, sans-serif;
+	
+}
+#gameheading
+{
+	margin-top:-15px;
+	text-align:center;
+	color:#ffffff;
+	font-size:40px;
+}
+#content
+{
+	background-color:#ec4669;
+	width:100%;
+	height:95px;
+	/*position:relative;*/
+	float:left;
+}
+#contentstyle
+{
+	text-align:center;
+	color:white;
+	font-size:20px;
+}
+
+.bold {
+    font-weight: bold;
+	text-align:center;
+	color:white;
+}	
+#shape
+{
+	width:200px;
+	height:200px;
+	background-color:black;
+	float:left;
+	display:none;
+	
+}	
